@@ -38,9 +38,7 @@ export default function Home() {
           <h2>Swiss Buttercream Recipe</h2>
           <div id="easyrecipe-39-0" class="easyrecipe" itemscope="" itemtype="http://schema.org/Recipe">
             <div itemprop="name" class="ERSName">
-              <u>
-                <strong>Swiss Buttercream Recipe</strong>
-              </u>
+              <u>Swiss Buttercream Recipe</u>
             </div>
             <div class="ERSClear"></div>
             <div class="ERSTimes">
@@ -64,10 +62,8 @@ export default function Home() {
             </div>
             <br />
             <div itemprop="description" class="ERSSummary">
-              <strong>
-                Please read all the way to the bottom of this blog post before beginning and before asking questions!
-                Thanks!
-              </strong>
+              Please read all the way to the bottom of this blog post before beginning and before asking questions!
+              Thanks!
             </div>
             <br />
             <div class="divERSHeadItems">
@@ -151,36 +147,79 @@ export default function Home() {
             <div class="ERSNotesDiv">
               <h2 class="ERSNotesHeader">Notes</h2>
               <div class="ERSNotes">
-                <strong>
-                  This Recipe Can Be Stored for 4 days room temperature, 2 weeks refrigerator, 2 months freezer
-                </strong>
+                This Recipe Can Be Stored for 4 days room temperature, 2 weeks refrigerator, 2 months freezer
                 <br />
                 <br />
-                <u>
-                  <strong>After refrigeration or freezing:</strong>
-                </u>
+                <u>After refrigeration or freezing:</u>
                 <br />
                 <br />
-                <strong>
-                  Take it out several hours or a day before you need it, and let it get to room temperature.Place entire
-                  recipe back on the mixer and with the PADDLE attachment on low- medium and let it mix.It will look as
-                  if it is broken, and curdled, don't be alarmed this is normal, it will come back together eventually.
-                </strong>
+                Take it out several hours or a day before you need it, and let it get to room temperature.Place entire
+                recipe back on the mixer and with the PADDLE attachment on low- medium and let it mix.It will look as if
+                it is broken, and curdled, don't be alarmed this is normal, it will come back together eventually.
                 <br />
                 <br />
-                <strong>
-                  For those who prefer to use pasteurized egg whites (like Just Whites®) it will take considerably
-                  longer to whip the whites and they will not gain the same volume as fresh whites do.
-                </strong>
+                For those who prefer to use pasteurized egg whites (like Just Whites®) it will take considerably longer
+                to whip the whites and they will not gain the same volume as fresh whites do.
                 <br />
                 <br />
-                <strong>
-                  For those using a hand beater you will not get the same volume as the balloon whisk attachment of a
-                  stand mixer, and the whites may take anywhere from 15 minuted to 45 minutes to whip (I have been told)
-                </strong>
+                For those using a hand beater you will not get the same volume as the balloon whisk attachment of a
+                stand mixer, and the whites may take anywhere from 15 minuted to 45 minutes to whip (I have been told)
               </div>
             </div>
           </div>
+          <h2>MY TWO CENTS</h2>
+          <p>
+            I make it a rule not to ever change a recipe before I have had a chance to try it, because how will I ever
+            know what it was supposed to taste like unless I make it the way the author intended it?{" "}
+            <p>
+              Now of course I have changed many recipes to suit my liking once I have tested it, BUT ONLY AFTER I HAVE
+              TESTED IT. Perhaps it is my way of being respectful to the author, because after all, I do not know
+              everything and those who think they do, are missing out on the great many things that others have to
+              offer.
+            </p>
+            <p>
+              Please be aware that this is a very different recipe than what you may be used to. It is REAL BUTTERcream
+              and it’s made with butter, so ummmm it tastes like butter
+            </p>
+          </p>
+          <h2>Trouble shooting:</h2>
+          <ul>
+            <li>
+              <span>"My Whites will not whip</span>!” – Is your bowl very clean and completely free of all traces of
+              fat, or grease? Are you using pasteurized (from a carton?) egg whites? Or fresh?&nbsp; Fresh whites always
+              whip better, and some have found that pasteurized whites will not even whip at all! Using a hand beater
+              will take about two times as long to whip compared to the balloon whisk of a Kitchen Aid or any stand
+              mixer.&nbsp; **Also, if using fresh eggs, be sure they are indeed FRESH! (meaning “not old”)
+            </li>
+          </ul>
+          <ul>
+            <li>
+              I think many of you are not getting your egg whites STIFF STIFF and glossy before you add the butter and
+              shortening. This will cause a thin, runny buttercream that will NOT hold a shape for piping and flowers.
+            </li>
+          </ul>
+          <ul>
+            <li>
+              Additionally one VERY BIG mistake is to add the butter/shortening to the meringue while it is still too
+              warm.&nbsp; This will melt your butter/shortening and you will have butter soup.
+            </li>
+          </ul>
+          <ul>
+            <li>
+              &nbsp;I think some of you are afraid to just DUMP in the confectioners sugar all at once and&nbsp;then do
+              the same&nbsp;with the butter/shortening.
+            </li>
+          </ul>
+          <ul>
+            <li>
+              BUT- if you are still having trouble- PLEASE DO NOT PANIC and THROW THIS “so called disaster” in the
+              garbage! 9 times out of 10 you can bring it back to life! Simply by continuing whipping until comes back
+              together!
+              <br />
+              HOWEVER for those of you who cannot get your meringue right from the start- well…you can’t make it
+              stronger at the end, you get what you get.
+            </li>
+          </ul>
         </article>
       </main>
     </div>
