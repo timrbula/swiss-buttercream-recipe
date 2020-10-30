@@ -2,8 +2,12 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: 'Open Sans', sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  /* Set default font size for mobile only */
+  font-size: 16px;
+  /* Set base line-height for mobile only */
+  line-height: 1.5; /* 18px */
 }
 
 a {
@@ -13,4 +17,21 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+:root {
+  /* CSS HEX */
+--congo-pink: #fe938cff;
+--melon: #edaf97ff;
+--tuscany: #c49792ff;
+--lilac-luster: #ad91a3ff;
+--heliotrope-gray: #9d91a3ff;
+
+/* CSS HSL */
+--congo-pink: hsla(4, 98%, 77%, 1);
+--melon: hsla(17, 70%, 76%, 1);
+--tuscany: hsla(6, 30%, 67%, 1);
+--lilac-luster: hsla(321, 15%, 62%, 1);
+--heliotrope-gray: hsla(280, 9%, 60%, 1);
+
 }
